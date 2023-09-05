@@ -1,7 +1,19 @@
-# Calculadora realizada con PHP
+## 🧮 Calculadora de SUMA Simple en PHP
 
-Este repositorio se trata de una calculadora simple escrita en PHP que realiza operaciones con los números ingresados por el usuario a través de un formulario HTML.
+Esta es una calculadora fácil de usar en tu computadora. Te permite sumar dos números en unos pocos pasos. Mirá como se hace:
 
-El código está escrito de manera clara y es fácil de entender, lo que lo convierte en un buen punto de partida para aquellos que quieran aprender a crear una calculadora simple en PHP.
+## Pasos para Usar la Calculadora
 
-El repositorio incluye tanto el archivo HTML para el formulario de la calculadora como el archivo PHP para procesar los datos ingresados por el usuario. Además, el proyecto también incluye un archivo CSS que define la apariencia visual de la calculadora.
+1. **Descargá e Instalá XAMPP:** 📥 Primero, necesitás descargar e instalar XAMPP en tu computadora desde [el sitio web oficial de XAMPP](https://www.apachefriends.org/index.html). XAMPP es un programa que te permite ejecutar aplicaciones web en tu PC.
+
+2. **Abrí XAMPP:** 🚀 Una vez que tengas XAMPP instalado, abrilo. Deberías ver una ventana con botones como "Start" (Iniciar) junto a Apache y MySQL. Haz clic en "Start" junto a Apache. Esto es como encender el motor de tu servidor web.
+
+3. **Descarga la Calculadora:** 📂 Ahora, descargá la calculadora desde [el repositorio en GitHub](https://github.com/aniascua/Calculadora-PHP.git). Asegurate de descomprimir el archivo descargado si está en formato ZIP. Tiene que quedarte una carpetita que diga Calculadora-PHP
+
+4. **Colocá la Calculadora en la Carpeta Correcta:** 📁 Luego, copiá los archivos de la calculadora y pegalos en la carpeta htdocs de XAMPP. La ubicación típica para htdocs es C:\xampp\htdocs
+
+5. **Abrí la Calculadora en tu Navegador:** 🌐 Abrí tu navegador web (como Google Chrome o Firefox) y en la barra de direcciones, escribí: `http://localhost/Calculadora-PHP/calculadora.php` y presioná Enter.
+
+6. **Usa la Calculadora:** ➕ Ahora verás la calculadora en tu pantalla. Ingresá el primer número en el primer campo, el segundo número en el segundo campo y hacé clic en el botón "Calcular". El resultado de la suma aparecerá en la pantalla.
+
+Eso es todo! 😊🎉
